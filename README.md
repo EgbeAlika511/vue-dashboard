@@ -1,4 +1,4 @@
-# dashboard
+# Vue Community dashboard
 
 ## Project setup
 ```
